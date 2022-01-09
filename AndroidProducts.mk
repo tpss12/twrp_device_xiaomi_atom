@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_cezanne.mk
+    $(LOCAL_DIR)/twrp_atom.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_cezanne-user \
-    twrp_cezanne-userdebug \
-    twrp_cezanne-eng
+    twrp_atom-user \
+    twrp_atom-userdebug \
+    twrp_atom-eng

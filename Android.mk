@@ -6,6 +6,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),cezanne)
+ifeq ($(TARGET_DEVICE),atom)
 include $(call all-subdir-makefiles,$(LOCAL_PATH))
 endif
